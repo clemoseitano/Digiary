@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Settings">
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="preff"
+            android:summary="Send Crash Reports"
+            android:title="Help to Fix Bugs">
+
+        </CheckBoxPreference>
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="updates"
+            android:summary="Auto Update"
+            android:title="Update" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="fullscreen"
+            android:summary="Enable or Disable  FullScreen"
+            android:title="FullScreen Mode">
+
+        </CheckBoxPreference>
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="refresh"
+            android:summary="Auto Refresh"
+            android:title="Refresh">
+
+        </CheckBoxPreference>
+    </PreferenceCategory>
+
+
+    <PreferenceCategory android:title="Volume">
+        <VolumePreference
+            android:name="Volume Preference"
+            android:key="PrefTandoh"
+            android:summary="Control volume"
+            android:title="Media Volume" />
+
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory android:title="ABOUT">
+
+        <PreferenceScreen android:title="App">
+
+        </PreferenceScreen>
+
+
+        <Preference
+            android:key="ver"
+            android:summary="Version: 1.0.0"
+            android:title="Build version" />
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
+
+
+
+

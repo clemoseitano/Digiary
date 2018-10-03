@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="ambilwarna_hsvHeight">240dp</dimen>
+	<dimen name="ambilwarna_hsvWidth">240dp</dimen>
+	<dimen name="ambilwarna_hueWidth">30dp</dimen>
+	<dimen name="ambilwarna_spacer">8dp</dimen>
+
+	<dimen name="dots_height">30dp</dimen>
+	<dimen name="dots_margin_bottom">20dp</dimen>
+	<dimen name="img_width_height">120dp</dimen>
+	<dimen name="slide_title">25sp</dimen>
+	<dimen name="slide_desc">16sp</dimen>
+	<dimen name="desc_padding">40dp</dimen>
+
+
+
+
+</resources>

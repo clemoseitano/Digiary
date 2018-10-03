@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="FileIconView">
+        <attr name="text" format="string" />
+        <attr name="fiv_textSize" format="dimension" />
+        <attr name="fiv_textColor" format="color" />
+        <attr name="drawable" format="color|reference" />
+    </declare-styleable>
+</resources>

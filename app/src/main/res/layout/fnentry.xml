@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            android:gravity="center"
+            android:text="fn\u2081(x) = "
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/fn1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.8"
+            android:imeOptions="actionDone"
+            android:inputType="number"
+            android:padding="5dip"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="2dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            android:gravity="center"
+            android:text="fn\u2082(x) = "
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/fn2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.8"
+            android:imeOptions="actionDone"
+            android:inputType="number"
+            android:padding="5dip"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp">
+
+        <TextView
+            android:layout_width="0.dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            android:gravity="center"
+            android:text="fn\u2083(x) = "
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/fn3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.8"
+            android:imeOptions="actionDone"
+            android:inputType="number"
+            android:padding="5dip"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <net.tanozin.digiary.calculator.EvenGridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/grey30"
+        android:paddingBottom="@dimen/number_vertical_margin"
+        android:paddingLeft="@dimen/number_horizontal_margin"
+        android:paddingRight="@dimen/number_horizontal_margin"
+        android:paddingTop="@dimen/number_vertical_margin"
+        app:columnCount="5"
+        app:rowCount="7">
+
+        <Button
+            android:id="@+id/shift"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="shift" />
+
+        <Button
+            android:id="@+id/left"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:background="@drawable/ic_left"
+            android:text="" />
+
+        <Button
+            android:id="@+id/right"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:background="@drawable/ic_right"
+            android:text="" />
+
+        <Button
+            android:id="@+id/del"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="@string/del" />
+
+        <Button
+            android:id="@+id/clr"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="clr" />
+
+        <Button
+            android:id="@+id/ln"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="ln" />
+
+        <Button
+            android:id="@+id/seven"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="7" />
+
+        <Button
+            android:id="@+id/eight"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="8" />
+
+        <Button
+            android:id="@+id/nine"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="9" />
+
+        <Button
+            android:id="@+id/plus"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="+" />
+
+        <Button
+            android:id="@+id/sqr"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="sqr" />
+
+        <Button
+            android:id="@+id/four"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="4" />
+
+        <Button
+            android:id="@+id/five"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="5" />
+
+        <Button
+            android:id="@+id/six"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="6" />
+
+        <Button
+            android:id="@+id/minus"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="-" />
+
+        <Button
+            android:id="@+id/pwr"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="^" />
+
+        <Button
+            android:id="@+id/one"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="1" />
+
+        <Button
+            android:id="@+id/two"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="2" />
+
+        <Button
+            android:id="@+id/three"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="3" />
+
+        <Button
+            android:id="@+id/mult"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="@string/op_mul" />
+
+        <Button
+            android:id="@+id/euler"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="e" />
+
+        <Button
+            android:id="@+id/point"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="." />
+
+        <Button
+            android:id="@+id/zero"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="0" />
+
+        <Button
+            android:id="@+id/sign"
+            style="@style/PadButtonStyle.Operator.Equals"
+            android:text="(-)" />
+
+        <Button
+            android:id="@+id/div"
+            style="@style/PadButtonStyle.Numeric"
+            android:text="@string/op_div" />
+
+        <Button
+            android:id="@+id/E"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="exp" />
+
+        <Button
+            android:id="@+id/lParen"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="(" />
+
+        <Button
+            android:id="@+id/rParen"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text=")" />
+
+        <Button
+            android:id="@+id/copy"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="paste"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/xVar"
+            style="@style/PadButtonStyle.Numeric"
+            android:textStyle="italic"
+            android:text="X" />
+
+        <Button
+            android:id="@+id/pie"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="pi" />
+
+        <Button
+            android:id="@+id/sin"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="sin" />
+
+        <Button
+            android:id="@+id/cos"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="cos" />
+
+        <Button
+            android:id="@+id/tan"
+            style="@style/PadButtonStyle.Operator.Text"
+            android:text="tan" />
+
+        <Button
+            android:id="@+id/fns_graph"
+            android:text="Graph"
+            style="@style/PadButtonStyle.Operator.Text" />
+    </net.tanozin.digiary.calculator.EvenGridLayout>
+</LinearLayout>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.tanozin.digiary">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-feature
+        android:name="android.hardware.microphone"
+        android:required="true" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <receiver android:name=".scheduler.OnAlarmReceiver" />
+
+        <service android:name=".scheduler.ScheduleService" />
+        <activity
+            android:name=".scheduler.TaskPreferences"
+            android:label="Reminder Settings" />
+
+        <receiver
+            android:name=".OnBootReceiver"
+            android:process="net.tanozin.digiary">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".scheduler.ScheduleActivity"
+            android:label="Schedules"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".scheduler.EditScheduleActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".scheduler.ScheduleActivity" />
+        </activity>
+        <provider
+            android:name=".note.NoteContentProvider"
+            android:authorities="net.tanozin.digiary.noteprovider" />
+
+        <activity
+            android:name=".note.activity.NoteActivity"
+            android:parentActivityName=".note.activity.NoteHome">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".note.activity.NoteHome" />
+        </activity>
+        <activity
+            android:name=".note.activity.ImageActivity"
+            android:parentActivityName=".note.activity.NoteHome">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".note.activity.NoteHome" />
+        </activity>
+        <activity
+            android:name=".note.activity.VideoActivity"
+            android:parentActivityName=".note.activity.NoteHome">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".note.activity.NoteHome" />
+        </activity>
+        <activity
+            android:name=".note.activity.AudioActivity"
+            android:parentActivityName=".note.activity.NoteHome"
+            android:theme="@style/Base.Theme.AppCompat.Dialog">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".note.activity.NoteHome" />
+        </activity>
+        <activity
+            android:name=".note.activity.SearchActivity"
+            android:parentActivityName=".note.activity.NoteHome">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".note.activity.NoteHome" />
+        </activity>
+        <activity
+            android:name=".note.activity.TextActivity"
+            android:label="Text Viewer"
+            android:parentActivityName=".note.activity.NoteHome">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".note.activity.NoteHome" />
+        </activity>
+        <activity
+            android:name=".note.activity.NoteHome"
+            android:theme="@style/AppTheme.NoActionBar"/>
+    </application>
+
+</manifest>

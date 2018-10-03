@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Text Edit Preferences">
+        <CheckBoxPreference
+            android:key="linksclickable"
+            android:title="Auto Link"
+            android:summary="Links and phone numbers are clickable"
+            android:defaultValue="false" />
+        <net.tanozin.digiary.texttray.ClearSearchSuggestions
+            android:key="clearsearch"
+            android:title="Clear Search Suggestions"
+            android:summary="Click here to clear list of recent searches"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="File Preferences">
+
+        <CheckBoxPreference
+            android:key="autocomplete"
+            android:title="Autocomplete Filenames"
+            android:summary="Autocomplete text when opening and saving files"
+            android:defaultValue="false" />
+        <net.tanozin.digiary.texttray.ClearRecentFileListPreference
+            android:key="clearrecent"
+            android:title="Clear Recent File List"
+            android:summary="Click here to clear list of recently opened files"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Appearance">
+        <net.tanozin.digiary.texttray.FontSizePreference
+            android:key="fontsize"
+            android:title="Font Size"
+            android:summary="Choose a font size"
+            android:defaultValue="Medium"
+            android:dialogTitle="Choose a font size" />
+        <net.tanozin.digiary.texttray.ColorPreference
+            android:key="fontcolor"
+            android:title="Font Color"
+            android:summary="Choose a font color"
+            android:defaultValue="0xFFCCCCCC"
+            android:dialogTitle="Choose a font color" />
+        <net.tanozin.digiary.texttray.ColorPreference
+            android:key="bgcolor"
+            android:title="Background Color"
+            android:summary="Choose a background color"
+            android:defaultValue="0xFF000000"
+            android:dialogTitle="Choose a background color" />
+        <CheckBoxPreference
+            android:key="hidefilename"
+            android:title="Hide Filename Bar"
+            android:summary="Allows for more screen space"
+            android:defaultValue="false" />
+    </PreferenceCategory>
+</PreferenceScreen>  

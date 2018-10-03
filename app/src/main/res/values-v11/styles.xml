@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+
+    </style>
+    <style name="AppThemeLight" parent="@android:style/Theme.Holo.Light">
+        <!-- for programmatic instantiation -->
+        <item name="vpiTitlePageIndicatorStyle">@style/TitlePageIndicatorLight</item>
+    </style>
+
+    <style name="AppThemeDark" parent="@android:style/Theme.Holo">
+        <!-- for programmatic instantiation -->
+        <item name="vpiTitlePageIndicatorStyle">@style/TitlePageIndicatorDark</item>
+    </style>
+
+</resources>

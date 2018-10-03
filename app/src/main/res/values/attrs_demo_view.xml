@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="DemoView">
+        <attr name="descriptionString" format="string" />
+        <attr name="shapeRadius" format="integer" />
+        <attr name="shapeColor" format="color" />
+    </declare-styleable>
+</resources>

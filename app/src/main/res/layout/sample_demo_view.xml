@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/nav_header_bg"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/demo"
+    android:orientation="vertical">
+
+    <net.tanozin.digiary.drawpad.DemoView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/demo_view"
+        app:shapeColor="#33b5e5"
+        app:shapeRadius="150"
+        app:descriptionString="Hello, DemoView" />
+    <SeekBar
+        android:id="@+id/pageSlider"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/transparent"
+        android:paddingBottom="4dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="4dp"
+        android:progressDrawable="@drawable/seek_progress"
+        android:thumb="@drawable/demo_seek_thumb" />
+
+    <TextView
+        android:id="@+id/endTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="8dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/white"
+        tools:text="40 px" />
+</LinearLayout>

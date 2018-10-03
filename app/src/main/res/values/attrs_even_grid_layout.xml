@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="EvenGridLayout">
+        <attr name="columnCount" format="integer" />
+        <attr name="rowCount" format="integer" />
+        <attr name="inheritParent" format="boolean" />
+        <attr name="cellWidth" format="dimension" />
+        <attr name="cellHeight" format="dimension" />
+    </declare-styleable>
+</resources>

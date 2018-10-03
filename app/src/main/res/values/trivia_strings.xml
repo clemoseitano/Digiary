@@ -1,0 +1,1625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="total_score">Scored : %1$s Out of  150.</string>
+    <string name="correct_answers">Answered : %1$s Out of 6 correct.</string>
+
+
+    <string name="rematch">Replay</string>
+    <string name="leader">Go To LeaderBoard</string>
+    <string name="score">Score</string>
+    <string name="sub">Subject :</string>
+    <string name="quest">Question</string>
+    <string name="shavi">Share via</string>
+    <string name="a">A</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="b">B</string>
+    <string name="dash">--</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="underscore">_</string>
+
+
+    <string name="biology_1">Which one of the following nucleotides is not  present in DNA ?</string>
+    <string name="biology_1_1">Adenine</string>
+    <string name="biology_1_2">Cytosine</string>
+    <string name="biology_1_3">Guanine</string>
+    <string name="biology_1_4">Uracil</string>
+    <string name="biology_answer_1">4</string>
+
+    <string name="biology_2">Which  one of the following stages is not present during  mitosis ? </string>
+    <string name="biology_2_1">Metaphase</string>
+    <string name="biology_2_2">Telophase</string>
+    <string name="biology_2_3">Prophase</string>
+    <string name="biology_2_4">Interphase</string>
+    <string name="biology_answer_2">4</string>
+
+    <string name="biology_3">Which one of  the following fruits is dispered by wind?</string>
+    <string name="biology_3_1">Desmodium</string>
+    <string name="biology_3_3">Crotaria</string>
+    <string name="biology_3_4">Tridax</string>
+    <string name="biology_answer_3"> 4 </string>
+
+    <string name="biology_4">In a gas exchange or respiration experiment,soda lime is used to absorb </string>
+    <string name="biology_4_1">Oxygen</string>
+    <string name="biology_4_2">Nitrogen</string>
+    <string name="biology_4_3">Water</string>
+    <string name="biology_4_4">Carbon(iv)oxide</string>
+    <string name="biology_answer_4">4</string>
+
+    <string name="biology_5">A shortage  of which of the following vitamins causes the deficiency disorder called rickets ?</string>
+    <string name="biology_5_1"> A</string>
+    <string name="biology_5_2">B</string>
+    <string name="biology_5_3">D</string>
+    <string name="biology_5_4">C</string>
+    <string name="biology_answer_5">3</string>
+
+    <string name="biology_6">Which one of the following nucleotides is the main enzyme present in the saliva of human beings ?</string>
+    <string name="biology_6_1">Amylase</string>
+    <string name="biology_6_2">Protease</string>
+    <string name="biology_6_3">Lipase</string>
+    <string name="biology_6_4">Maltase</string>
+    <string name="biology_answer_6">1</string>
+
+    <string name="biology_7">Which one of the following bones is found in the fore-limb of a mammal ?</string>
+    <string name="biology_7_1">Femur</string>
+    <string name="biology_7_2">Ulna</string>
+    <string name="biology_7_3">Tarsal</string>
+    <string name="biology_7_4">Tibia</string>
+    <string name="biology_answer_7">2</string>
+
+    <string name="biology_8">For  which one of the following carbohydrates are fruits juices  a rich sources ?</string>
+    <string name="biology_8_1">Glycogen</string>
+    <string name="biology_8_2">Maltose</string>
+    <string name="biology_8_3">Glucose</string>
+    <string name="biology_8_4">Starch</string>
+    <string name="biology_answer_8">3</string>
+
+    <string name="biology_9">Which one of the following is an example of continous variation ?</string>
+    <string name="biology_9_1">Tongue rolling</string>
+    <string name="biology_9_2">Blood group</string>
+    <string name="biology_9_3">Rh factor</string>
+    <string name="biology_9_4">Height</string>
+    <string name="biology_answer_9">4</string>
+
+    <string name="biology_10">Which one of the following scientists discovered that penicillin killed bacteria ?</string>
+    <string name="biology_10_1">Fleming</string>
+    <string name="biology_10_2">Koch</string>
+    <string name="biology_10_3">Pasteur</string>
+    <string name="biology_10_4">Jenner</string>
+    <string name="biology_answer_10">1</string>
+
+    <string name="biology_11">The medulla oblongata is a part of human ?</string>
+    <string name="biology_11_1">Heart</string>
+    <string name="biology_11_2">Brain</string>
+    <string name="biology_11_3">None of the above</string>
+    <string name="biology_11_4">Liver</string>
+    <string name="biology_answer_11">2</string>
+
+    <string name="biology_12">The main excretory product of frog is ?</string>
+    <string name="biology_12_1">Uric acid.</string>
+    <string name="biology_12_2">Amino acid.</string>
+    <string name="biology_12_3">None of the above</string>
+    <string name="biology_12_4">Urea</string>
+    <string name="biology_answer_12">4</string>
+
+    <string name="biology_13">Who discovered the Polio vaccine ? </string>
+    <string name="biology_13_1">Jonas Salk</string>
+    <string name="biology_13_2">Konrad Zuse</string>
+    <string name="biology_13_3">Edwin Pasteur</string>
+    <string name="biology_13_4">Louis Pasteur</string>
+    <string name="biology_answer_13">1</string>
+
+    <string name="biology_14">Aspirin comes from which of the following ?</string>
+    <string name="biology_14_1">Eucalyptus</string>
+    <string name="biology_14_2">Oak tree</string>
+    <string name="biology_14_3">Willow bark</string>
+    <string name="biology_14_4">All of the above</string>
+    <string name="biology_answer_14">3</string>
+
+    <string name="biology_15">The human cell contains ?</string>
+    <string name="biology_15_1">46 chromosomes</string>
+    <string name="biology_15_2">42 chromosomes</string>
+    <string name="biology_15_3">23 chromosomes.</string>
+    <string name="biology_15_4">21 chromosomes</string>
+    <string name="biology_answer_15">1</string>
+
+
+    <string name="chemistry_1">Metals can be stretched into wires because they are?</string>
+    <string name="chemistry_1_1">Malleable</string>
+    <string name="chemistry_1_2">Brittle</string>
+    <string name="chemistry_1_3">Ductile</string>
+    <string name="chemistry_1_4">Elastic</string>
+    <string name="chemistry_answer_1">3</string>
+
+    <string name="chemistry_2">Which of the following elements is essential in the vulcanization of rubber ? </string>
+    <string name="chemistry_2_1">Chlorine</string>
+    <string name="chemistry_2_2">Hydrogen</string>
+    <string name="chemistry_2_3">Oxygen</string>
+    <string name="chemistry_2_4">Sulphur</string>
+    <string name="chemistry_answer_2">4</string>
+
+    <string name="chemistry_3">The periodic table is an arrangement of elements according to their?</string>
+    <string name="chemistry_3_1">Protoan number</string>
+    <string name="chemistry_3_2">Atomic number</string>
+    <string name="chemistry_3_3">Mass number</string>
+    <string name="chemistry_3_4">Neutron number</string>
+    <string name="chemistry_answer_3"> 2</string>
+
+    <string name="chemistry_4">The hydrolysis of  groundnut oil by potassium hydroxide is known as  </string>
+    <string name="chemistry_4_1">Esterification</string>
+    <string name="chemistry_4_2">Hydrogenation</string>
+    <string name="chemistry_4_3">Neutralization</string>
+    <string name="chemistry_4_4">Saponification</string>
+    <string name="chemistry_answer_4">4</string>
+
+    <string name="chemistry_5"> The force of attraction between  covalent molecules is </string>
+    <string name="chemistry_5_1"> Van de Waal\'s force</string>
+    <string name="chemistry_5_2">Ionic force</string>
+    <string name="chemistry_5_3">Hydrogen bonding</string>
+    <string name="chemistry_5_4">Val de Ala force </string>
+    <string name="chemistry_answer_5">1</string>
+
+    <string name="chemistry_6">A mixture of kerosene and diesel oil can be separated by ?</string>
+    <string name="chemistry_6_1">Fractional distillation</string>
+    <string name="chemistry_6_2">Precipitation</string>
+    <string name="chemistry_6_3">Sublimation</string>
+    <string name="chemistry_6_4">Crystallization</string>
+    <string name="chemistry_answer_6">1</string>
+
+    <string name="chemistry_7">Which of the orbitals 3d,4s,4p and 4d has lowest energy ?</string>
+    <string name="chemistry_7_1">3d</string>
+    <string name="chemistry_7_2">4s</string>
+    <string name="chemistry_7_3">4p</string>
+    <string name="chemistry_7_4">4d</string>
+    <string name="chemistry_answer_7">2</string>
+
+    <string name="chemistry_8">Which of the following groups of elements is monoatomic in nature ?</string>
+    <string name="chemistry_8_1">Alkali metals</string>
+    <string name="chemistry_8_2">Nobel metals</string>
+    <string name="chemistry_8_3">Halogens</string>
+    <string name="chemistry_8_4">Noble gases</string>
+    <string name="chemistry_answer_8">4</string>
+
+    <string name="chemistry_9">Which is the geometrical shape of the s-orbital of an atom ?</string>
+    <string name="chemistry_9_1">Dumb-bell</string>
+    <string name="chemistry_9_2">Spherical</string>
+    <string name="chemistry_9_3">Round-bell</string>
+    <string name="chemistry_9_4">Circle</string>
+    <string name="chemistry_answer_9">2</string>
+
+    <string name="chemistry_10">An element that can exist in two or more forms in the same physical state is said to exhibit?</string>
+    <string name="chemistry_10_1">Allotropy</string>
+    <string name="chemistry_10_2">Isotopy</string>
+    <string name="chemistry_10_3">Isomerism</string>
+    <string name="chemistry_10_4">Hygroscopy</string>
+    <string name="chemistry_answer_10">1</string>
+
+    <string name="chemistry_11">Which type of radiation is the least penetrating? </string>
+    <string name="chemistry_11_1">Gamma</string>
+    <string name="chemistry_11_2">Beta</string>
+    <string name="chemistry_11_3">Alpha</string>
+    <string name="chemistry_11_4">X-ray </string>
+    <string name="chemistry_answer_11">3</string>
+
+    <string name="chemistry_12">A system suffers an increase in internal energy of 80 J and at the same time has 50 J of work done on it. What is the heat change of the system? </string>
+    <string name="chemistry_12_1"> -30 J</string>
+    <string name="chemistry_12_2"> -130 J</string>
+    <string name="chemistry_12_3"> +130 J</string>
+    <string name="chemistry_12_4"> +30 J </string>
+    <string name="chemistry_answer_12">4</string>
+
+    <string name="chemistry_13">All of the following have a standard heat of formation value of zero at 25ºC and 1.0 atm except _____</string>
+    <string name="chemistry_13_1">H(g)</string>
+    <string name="chemistry_13_2">Ne(g)</string>
+    <string name="chemistry_13_3">Fe(s) </string>
+    <string name="chemistry_13_4">Hg(l)</string>
+    <string name="chemistry_answer_13">1</string>
+
+    <string name="chemistry_14">Carbon monoxide has ten bonding electrons and four antibonding electrons. Therefore it has a bond order of ____</string>
+    <string name="chemistry_14_1">5</string>
+    <string name="chemistry_14_2">1</string>
+    <string name="chemistry_14_3">3</string>
+    <string name="chemistry_14_4">2</string>
+    <string name="chemistry_answer_14">3</string>
+
+    <string name="chemistry_15">Dehydration of an alcohol leads to the formation of an _____.</string>
+    <string name="chemistry_15_1">Alkene</string>
+    <string name="chemistry_15_2">Alkane</string>
+    <string name="chemistry_15_3">Alkyne</string>
+    <string name="chemistry_15_4">Aldehyde</string>
+    <string name="chemistry_answer_15">1</string>
+
+
+    <string name="antenna_1">What is the polarization of a Discone ?</string>
+    <string name="antenna_1_1">Vertical </string>
+    <string name="antenna_1_2">Horizontal </string>
+    <string name="antenna_1_3">Circular </string>
+    <string name="antenna_1_4">Spiral</string>
+    <string name="antenna_answer_1">1</string>
+
+    <string name="antenna_2">Which is a non-resonant ?</string>
+    <string name="antenna_2_1">Folded dipole  </string>
+    <string name="antenna_2_2">Rhombic</string>
+    <string name="antenna_2_3">Yagi-Uda  </string>
+    <string name="antenna_2_4">End-fire array </string>
+    <string name="antenna_answer_2">2</string>
+
+    <string name="antenna_3">_____ is the amount of uncertainty in a system of symbols</string>
+    <string name="antenna_3_1">Bandwidth</string>
+    <string name="antenna_3_2">Enthalpy </string>
+    <string name="antenna_3_3">Entropy </string>
+    <string name="antenna_3_4"> Quantum</string>
+    <string name="antenna_answer_3"> 3</string>
+
+    <string name="antenna_4">In what range of frequencies are most omnidirectional horizontally polarized used? </string>
+    <string name="antenna_4_1">VHF, UHF </string>
+    <string name="antenna_4_2">VLF, LF </string>
+    <string name="antenna_4_3">SH, EHF </string>
+    <string name="antenna_4_4"> MF, HF</string>
+    <string name="antenna_answer_4">1</string>
+
+
+    <string name="antenna_5"> If an Antenna has a gain of 3 dB, it increases the output of the transmitter  </string>
+    <string name="antenna_5_1"> 10,000 times </string>
+    <string name="antenna_5_2">1000 times </string>
+    <string name="antenna_5_3">100 times </string>
+    <string name="antenna_5_4">1 million times</string>
+    <string name="antenna_answer_5">2</string>
+
+
+    <string name="antenna_6">A device that converts high frequency current into electromagnetic wave.</string>
+    <string name="antenna_6_1"> Antenna   </string>
+    <string name="antenna_6_2">Loudspeaker </string>
+    <string name="antenna_6_3">Microphone </string>
+    <string name="antenna_6_4">Transducer</string>
+    <string name="antenna_answer_6">1</string>
+
+
+    <string name="antenna_7">______ is the measurement of a unilateral properties of directivity</string>
+    <string name="antenna_7_1">Phase angle </string>
+    <string name="antenna_7_2">Gain </string>
+    <string name="antenna_7_3">Beamwidth </string>
+    <string name="antenna_7_4">Bandwidth</string>
+    <string name="antenna_answer_7">3</string>
+
+
+    <string name="antenna_8">What is the gain of isotropic ?</string>
+    <string name="antenna_8_1">10 </string>
+    <string name="antenna_8_2">1.0</string>
+    <string name="antenna_8_3">0.1</string>
+    <string name="antenna_8_4">1.5</string>
+    <string name="antenna_answer_8">2</string>
+
+    <string name="antenna_9">Which of the following improves directivity?</string>
+    <string name="antenna_9_1">Director element </string>
+    <string name="antenna_9_2">Driven element </string>
+    <string name="antenna_9_3">Parasitic element</string>
+    <string name="antenna_9_4">Reflector element </string>
+    <string name="antenna_answer_9">3</string>
+
+
+    <string name="antenna_10">What is the radiation characteristic of a dipole ?</string>
+    <string name="antenna_10_1">Hemispherical</string>
+    <string name="antenna_10_2">Omnidirectional </string>
+    <string name="antenna_10_3"> Unidirectional </string>
+    <string name="antenna_10_4">Bidirectional</string>
+    <string name="antenna_answer_10">4</string>
+
+
+    <string name="physics_1">Force of attraction between the molecules of different substances is called </string>
+    <string name="physics_1_1">Surface tension </string>
+    <string name="physics_1_2">Cohensive force</string>
+    <string name="physics_1_3">Adhesive force</string>
+    <string name="physics_1_4">Adhensive tension</string>
+    <string name="physics_answer_1">3</string>
+
+    <string name="physics_2">Which of the following is an electromagnetic wave ?</string>
+    <string name="physics_2_1">Cathode rays</string>
+    <string name="physics_2_2">Sound wave</string>
+    <string name="physics_2_3">Ultrasonic wave </string>
+    <string name="physics_2_4">Infra red rays </string>
+    <string name="physics_answer_2">4</string>
+
+    <string name="physics_3">Which instrument is used to measure altitudes in aircraft\'s ?</string>
+    <string name="physics_3_1"> Audiometer </string>
+    <string name="physics_3_2"> Ammeter </string>
+    <string name="physics_3_3"> Altimeter </string>
+    <string name="physics_3_4">Anemometer   </string>
+    <string name="physics_answer_3"> 3 </string>
+
+    <string name="physics_4"> Which instrument is used to measure depth of ocean ?</string>
+    <string name="physics_4_1">Galvanometer </string>
+    <string name="physics_4_2">Fluxmeter </string>
+    <string name="physics_4_3">Endoscope </string>
+    <string name="physics_4_4"> Fathometer</string>
+    <string name="physics_answer_4"> 4</string>
+
+    <string name="physics_5">Name of the instrument to measure atomspheric pressure ?</string>
+    <string name="physics_5_1"> Barometer  </string>
+    <string name="physics_5_2">Barograph </string>
+    <string name="physics_5_3"> Bolometer</string>
+    <string name="physics_5_4"> Callipers</string>
+    <string name="physics_answer_5">1 </string>
+
+    <string name="physics_6">Which instrument is used to measure the power of electric circuit ?</string>
+    <string name="physics_6_1">Voltmeter </string>
+    <string name="physics_6_2">Wattmeter </string>
+    <string name="physics_6_3">Wavemeter </string>
+    <string name="physics_6_4"> Viscometer </string>
+    <string name="physics_answer_6">2</string>
+
+
+    <string name="physics_7"> Which instrument is used in submarine to see the objects above sea level?  </string>
+    <string name="physics_7_1">Pykometer </string>
+    <string name="physics_7_2">Polygraph</string>
+    <string name="physics_7_3">Photometer </string>
+    <string name="physics_7_4">Periscope</string>
+    <string name="physics_answer_7">4</string>
+
+
+    <string name="physics_8">Which instrument is used to measure curvature of spherical objects ?</string>
+    <string name="physics_8_1">Spectroscope </string>
+    <string name="physics_8_2">Spherometer</string>
+    <string name="physics_8_3">Spectrometer</string>
+    <string name="physics_8_4">Sextant</string>
+    <string name="physics_answer_8">2</string>
+
+    <string name="physics_9">WWhich instrument is used to record physical happenings at a distant place?</string>
+    <string name="physics_9_1">Thermostat </string>
+    <string name="physics_9_2">Tonometer </string>
+    <string name="physics_9_3"> Telemeter </string>
+    <string name="physics_9_4">Transponder </string>
+    <string name="physics_answer_9">3</string>
+
+
+    <string name="physics_10">Radian is used to measure</string>
+    <string name="physics_10_1">Temperature</string>
+    <string name="physics_10_2">Intensity of Flame </string>
+    <string name="physics_10_3">Angle</string>
+    <string name="physics_10_4">Solid Angle</string>
+    <string name="physics_answer_10">3</string>
+
+    <string name="physics_11">What is unit of Astronomical distance ?</string>
+    <string name="physics_11_1">Lux</string>
+    <string name="physics_11_2">Light Year</string>
+    <string name="physics_11_3">Light Year/meter</string>
+    <string name="physics_11_4">Angstrom</string>
+    <string name="physics_answer_11">2</string>
+
+    <string name="physics_12">A simple half-wavelength radiates the strongest signal at ________</string>
+    <string name="physics_12_1">60 degrees to its axis</string>
+    <string name="physics_12_2">45 degrees to its axis </string>
+    <string name="physics_12_3">Parallel to its axis</string>
+    <string name="physics_12_4">Right angles to its axis </string>
+    <string name="physics_answer_12">4</string>
+
+
+    <string name="economics_1">“An Enquiry into the Nature and Causes of Wealth of Nations”is the book of economist</string>
+    <string name="economics_1_1">Adam Smith </string>
+    <string name="economics_1_2">Marshall </string>
+    <string name="economics_1_3"> Robbins </string>
+    <string name="economics_1_4">Adams Smits</string>
+    <string name="economics_answer_1">1</string>
+
+
+    <string name="economics_2">Economics is the Science of Wealth” who gave this definition ?</string>
+    <string name="economics_2_1">J. K. Mehta </string>
+    <string name="economics_2_2"> Marshall</string>
+    <string name="economics_2_3">Adam Smith   </string>
+    <string name="economics_2_4"> Robbins </string>
+    <string name="economics_answer_2">3</string>
+
+    <string name="economics_3">Economics is what economists do.” It has been supported by </string>
+    <string name="economics_3_1">Richard Jones </string>
+    <string name="economics_3_2">Comte </string>
+    <string name="economics_3_3">Gunnar Myrdal</string>
+    <string name="economics_3_4"> All of the above</string>
+    <string name="economics_answer_3"> 4</string>
+
+
+    <string name="economics_4">“Human Welfare is the subject of Economics.” This statement is associated with the name of which of the economists ? </string>
+    <string name="economics_4_1">Marshall </string>
+    <string name="economics_4_2">Pigou </string>
+    <string name="economics_4_3">Penson </string>
+    <string name="economics_4_4">All of the above</string>
+    <string name="economics_answer_4">4</string>
+
+
+    <string name="economics_5">Who has given scarcity definition of economics ? </string>
+    <string name="economics_5_1"> Adam Smith </string>
+    <string name="economics_5_2">Marshall</string>
+    <string name="economics_5_3">Robbins</string>
+    <string name="economics_5_4">Robertsons</string>
+    <string name="economics_answer_5">3</string>
+
+    <string name="economics_6">Which theory is generally included under micro economics ?</string>
+    <string name="economics_6_1">Price Theory</string>
+    <string name="economics_6_2">Income Theory </string>
+    <string name="economics_6_3">Employment Theory </string>
+    <string name="economics_6_4">prize Theory</string>
+    <string name="economics_answer_6">1</string>
+
+    <string name="economics_7">Whose opinions have revolutionised the scope of macro economics ?</string>
+    <string name="economics_7_1">Adam Smith  </string>
+    <string name="economics_7_2">J.B. Say</string>
+    <string name="economics_7_3">J.M. Keynes  </string>
+    <string name="economics_7_4">All of the above</string>
+    <string name="economics_answer_7">3</string>
+
+    <string name="economics_8">For inferior commodities,income effect is </string>
+    <string name="economics_8_1">Zero </string>
+    <string name="economics_8_2">Negative</string>
+    <string name="economics_8_3">Infinite </string>
+    <string name="economics_8_4">Positive</string>
+    <string name="economics_answer_8">2</string>
+
+    <string name="economics_9">When total utility becomes maximum, then marginal utility will be</string>
+    <string name="economics_9_1">Minimum </string>
+    <string name="economics_9_2">Average </string>
+    <string name="economics_9_3">Zero </string>
+    <string name="economics_9_4"> Negative </string>
+    <string name="economics_answer_9">3</string>
+
+    <string name="economics_10">Marginal utility is equal to average utility at that time when average utility is</string>
+    <string name="economics_10_1">Increasing</string>
+    <string name="economics_10_2">Maximum </string>
+    <string name="economics_10_3"> Falling</string>
+    <string name="economics_10_4"> Minimum</string>
+    <string name="economics_answer_10">2</string>
+
+    <string name="fibre_1">For a sine wave, the frequency is represented by the cycles per </string>
+    <string name="fibre_1_1">Second</string>
+    <string name="fibre_1_2">Minute</string>
+    <string name="fibre_1_3">Hour</string>
+    <string name="fibre_1_4">None of the above</string>
+    <string name="fibre_answer_1">1</string>
+
+    <string name="fibre_2">What is the typical value of refractive index for an ethyl alcohol?</string>
+    <string name="fibre_2_1">1</string>
+    <string name="fibre_2_2">1.36</string>
+    <string name="fibre_2_3">2.6</string>
+    <string name="fibre_2_4">2.6</string>
+    <string name="fibre_answer_2">2</string>
+
+    <string name="fibre_3"> In an optical fibre, the concept of Numerical aperture is applicable in describing the ability of ____ </string>
+    <string name="fibre_3_1">Light Collection</string>
+    <string name="fibre_3_2">Light Scattering</string>
+    <string name="fibre_3_3">Light Dispersion</string>
+    <string name="fibre_3_4">Light Polarization</string>
+    <string name="fibre_answer_3">1</string>
+
+    <string name="fibre_4"> Which among the following do/does not support/s the soot formation process? </string>
+    <string name="fibre_4_1">OVPO</string>
+    <string name="fibre_4_2">MCVD</string>
+    <string name="fibre_4_3">PCVD</string>
+    <string name="fibre_4_4">All of the above</string>
+    <string name="fibre_answer_4">3</string>
+
+    <string name="fibre_5">Which among the following is regarded as an inelastic scattering of a photon?</string>
+    <string name="fibre_5_1">Kerr Effect</string>
+    <string name="fibre_5_2">Roman Effect</string>
+    <string name="fibre_5_3">Hall Effect</string>
+    <string name="fibre_5_4">Miller Effect</string>
+    <string name="fibre_answer_5">2</string>
+
+    <string name="fibre_6">The order of mode is equal to the number of field____ across the guide.</string>
+    <string name="fibre_6_1">Zeros</string>
+    <string name="fibre_6_2">Poles</string>
+    <string name="fibre_6_3">Ones</string>
+    <string name="fibre_6_4">All of the above</string>
+    <string name="fibre_answer_6">1</string>
+
+    <string name="fibre_7">Which optical devices are adopted or applicable for routing signals from one waveguide to another?</string>
+    <string name="fibre_7_1">Optical Combiner</string>
+    <string name="fibre_7_2">Optical Splitter</string>
+    <string name="fibre_7_3">Optical Coupler</string>
+    <string name="fibre_7_4">All of the above</string>
+    <string name="fibre_answer_7">3</string>
+
+    <string name="fibre_8">The spectral response of an ideal photoreceptor depicts its efficiency as a function of</string>
+    <string name="fibre_8_1">amplitude</string>
+    <string name="fibre_8_2">frequency</string>
+    <string name="fibre_8_3">period</string>
+    <string name="fibre_8_4">wavelength</string>
+    <string name="fibre_answer_8">4</string>
+
+    <string name="fibre_9">Which among the following parameters is/are decided by the front-end of a receiver?</string>
+    <string name="fibre_9_1">Sensitivity</string>
+    <string name="fibre_9_2">Bandwidth</string>
+    <string name="fibre_9_3">Both a and b</string>
+    <string name="fibre_9_4">None of the above</string>
+    <string name="fibre_answer_9">3</string>
+
+    <string name="fibre_10">Light is confined within the core of a simple optical fiber by _____</string>
+    <string name="fibre_10_1">Total internal reflection</string>
+    <string name="fibre_10_2">Refraction.</string>
+    <string name="fibre_10_3">Absorption</string>
+    <string name="fibre_10_4">Reflection</string>
+    <string name="fibre_answer_10">1</string>
+
+    <string name="fibre_11">What method allows large number of independent, selectable channels to exist on a single fiber?</string>
+    <string name="fibre_11_1">PM</string>
+    <string name="fibre_11_2">FDM</string>
+    <string name="fibre_11_3">TDM</string>
+    <string name="fibre_11_4">All of the above</string>
+    <string name="fibre_answer_11">2</string>
+
+    <string name="fibre_12">What type of optical fiber would best be used in the Multiple Channel Architechture (MCA)?</string>
+    <string name="fibre_12_1">Refractive-Index.</string>
+    <string name="fibre_12_2">Step-Index.</string>
+    <string name="fibre_12_3">All of the above</string>
+    <string name="fibre_12_4">Graded-Index.</string>
+    <string name="fibre_answer_12">4</string>
+
+    <string name="fibre_13">A certain fiber-optic cable has the following characteristics n1 = 1.82 and n2 = 1.73. What is the value of θc? </string>
+    <string name="fibre_13_1">71.90º</string>
+    <string name="fibre_13_2">1.50º</string>
+    <string name="fibre_13_3">0.95º</string>
+    <string name="fibre_13_4">70.50º</string>
+    <string name="fibre_answer_13">1</string>
+
+    <string name="fibre_14">An AM demodulator can be implemented with a linear multiplier followed by a ____ filter.</string>
+    <string name="fibre_14_1">High-pass</string>
+    <string name="fibre_14_2">Band-pass</string>
+    <string name="fibre_14_3">Low-pass</string>
+    <string name="fibre_14_4">Band-stop</string>
+    <string name="fibre_answer_14">3</string>
+
+    <string name="fibre_15">The intermediate frequency in a standard AM receiver is</string>
+    <string name="fibre_15_1">455 kHz</string>
+    <string name="fibre_15_2">455 Hz.</string>
+    <string name="fibre_15_3">4.55 MHz.</string>
+    <string name="fibre_15_4">45.5Hz</string>
+    <string name="fibre_answer_15">1</string>
+
+
+    <string name="bible_1">How old was David when he was anointed King of Israel?</string>
+    <string name="bible_1_1">30</string>
+    <string name="bible_1_2">31</string>
+    <string name="bible_1_3"> 29</string>
+    <string name="bible_1_4">33</string>
+    <string name="bible_answer_1">1</string>
+
+    <string name="bible_2">How many rivers were formed from the river that went out of Eden?</string>
+    <string name="bible_2_1">2</string>
+    <string name="bible_2_2"> 5</string>
+    <string name="bible_2_3">9</string>
+    <string name="bible_2_4"> 4</string>
+    <string name="bible_answer_2">4</string>
+
+    <string name="bible_3">From what tribe of Israel did the Apostle Paul come?</string>
+    <string name="bible_3_1">Joseph</string>
+    <string name="bible_3_2">Peter</string>
+    <string name="bible_3_3">Benjamin</string>
+    <string name="bible_3_4"> All of the above</string>
+    <string name="bible_answer_3"> 3</string>
+
+    <string name="bible_4">Who were the parents of King Solomon? </string>
+    <string name="bible_4_1">Saul and Bathsheba </string>
+    <string name="bible_4_2">David and Bathsheba</string>
+    <string name="bible_4_3">Joseph and Mary</string>
+    <string name="bible_4_4">David and Elizabeth</string>
+    <string name="bible_answer_4">2</string>
+
+    <string name="bible_5">In the Bible, who did the sun and moon stand still before? </string>
+    <string name="bible_5_1"> David</string>
+    <string name="bible_5_2">Solomon </string>
+    <string name="bible_5_3">Joseph </string>
+    <string name="bible_5_4">Joshua</string>
+    <string name="bible_answer_5">4</string>
+
+    <string name="bible_6">At the transfiguration who appeared and talked to Christ?</string>
+    <string name="bible_6_1"> Elijah and Moses</string>
+    <string name="bible_6_2">Peter and James </string>
+    <string name="bible_6_3">Peter and Matthew</string>
+    <string name="bible_6_4">Peter and John</string>
+    <string name="bible_answer_6">1</string>
+
+    <string name="bible_7">To which tribe of Israel did Moses belong?</string>
+    <string name="bible_7_1"> Levis </string>
+    <string name="bible_7_2"> Levi</string>
+    <string name="bible_7_3">Dan </string>
+    <string name="bible_7_4">Levist</string>
+    <string name="bible_answer_7">2</string>
+
+    <string name="bible_8">Who was the father of David? </string>
+    <string name="bible_8_1">Abraham</string>
+    <string name="bible_8_2">Solomon</string>
+    <string name="bible_8_3">Jesse</string>
+    <string name="bible_8_4">Joshua</string>
+    <string name="bible_answer_8">3</string>
+
+    <string name="bible_9">Who was the father of John the Baptist?</string>
+    <string name="bible_9_1">Zacharias </string>
+    <string name="bible_9_2">Joseph </string>
+    <string name="bible_9_3">Simon </string>
+    <string name="bible_9_4"> Saul</string>
+    <string name="bible_answer_9">1</string>
+
+    <string name="bible_10">How old was Abraham when his son Isaac was born?</string>
+    <string name="bible_10_1">100 years  </string>
+    <string name="bible_10_2">120 years </string>
+    <string name="bible_10_3">150 years</string>
+    <string name="bible_10_4">101years</string>
+    <string name="bible_answer_10">1</string>
+
+    <string name="bible_11">Who was the king of Israel when David slew Goliath?</string>
+    <string name="bible_11_1">Solomon</string>
+    <string name="bible_11_2">Saul</string>
+    <string name="bible_11_3">Paul</string>
+    <string name="bible_11_4">None of the above</string>
+    <string name="bible_answer_11">2</string>
+
+    <string name="bible_12">What did Paul say was the fulfillment of the Law?</string>
+    <string name="bible_12_1">Peace</string>
+    <string name="bible_12_2">Good</string>
+    <string name="bible_12_3">Lust</string>
+    <string name="bible_12_4">Love</string>
+    <string name="bible_answer_12">4</string>
+
+    <string name="bible_13">Where were the disciples first called Christians? </string>
+    <string name="bible_13_1">Antioch</string>
+    <string name="bible_13_2">Rome</string>
+    <string name="bible_13_3">Ghana</string>
+    <string name="bible_13_4">Jerusalem</string>
+    <string name="bible_answer_13">1</string>
+
+    <string name="bible_14">How many demons came out of Mary called Magdalene?</string>
+    <string name="bible_14_1">5</string>
+    <string name="bible_14_2">8</string>
+    <string name="bible_14_3">7</string>
+    <string name="bible_14_4">3</string>
+    <string name="bible_answer_14">3</string>
+
+    <string name="bible_15">How many books of the Bible are named after women?</string>
+    <string name="bible_15_1">2</string>
+    <string name="bible_15_2">5</string>
+    <string name="bible_15_3">3</string>
+    <string name="bible_15_4">7</string>
+    <string name="bible_answer_15">1</string>
+
+
+    <string name="switching_1">The ratio of number of successful calls to the number of call attempts is known as ______</string>
+    <string name="switching_1_1">Call Completion Rate (CCR)</string>
+    <string name="switching_1_2">Call Block Rate (CBR)</string>
+    <string name="switching_1_3">Busy Hour Call Rate (BHCR)</string>
+    <string name="switching_1_4">None of the above</string>
+    <string name="switching_answer_1">1</string>
+
+    <string name="switching_2"> How is the relation between Erlang and CCS specified?</string>
+    <string name="switching_2_1">1 Erlang = 36 CCS</string>
+    <string name="switching_2_2">1 Erlang = 3600 CCS</string>
+    <string name="switching_2_3">1 Erlang = 60 CCS</string>
+    <string name="switching_2_4">1 Erlang = 35 CCS</string>
+    <string name="switching_answer_2">1</string>
+
+    <string name="switching_3">Which among the following is/are adopted by cross bar systems with hard wired control subsystem?</string>
+    <string name="switching_3_1">Relays</string>
+    <string name="switching_3_2">Latches</string>
+    <string name="switching_3_3"> Both a and b</string>
+    <string name="switching_3_4"> None of the above</string>
+    <string name="switching_answer_3"> 3</string>
+
+    <string name="switching_4"> If n number of users are present in a network with point-to-point links, then how many links will be required in the network </string>
+    <string name="switching_4_1">n(n – 1)</string>
+    <string name="switching_4_2">n(n – 1)/2</string>
+    <string name="switching_4_3">n(n – 1)/4</string>
+    <string name="switching_4_4">n(n – 1)/8</string>
+    <string name="switching_answer_4">2</string>
+
+    <string name="switching_5"> By which name/s is the Grade of Service (GOS) well-known?</string>
+    <string name="switching_5_1">Call congestion</string>
+    <string name="switching_5_2">Time congestion</string>
+    <string name="switching_5_3">None of the above</string>
+    <string name="switching_5_4">Service congestion</string>
+    <string name="switching_answer_5">1</string>
+
+    <string name="switching_6">Which among the following controls the dynamic characteristics of Phase Locked Loop (PLL)?</string>
+    <string name="switching_6_1">Low Pass Filter</string>
+    <string name="switching_6_2">High Pass Filter </string>
+    <string name="switching_6_3">Band Pass Filter</string>
+    <string name="switching_6_4">Band Stop Filter</string>
+    <string name="switching_answer_6">1</string>
+
+    <string name="switching_7"> Which type of data network supports the interconnection of computers within highly populated area?</string>
+    <string name="switching_7_1">LAN</string>
+    <string name="switching_7_2">WAN</string>
+    <string name="switching_7_3">MAN</string>
+    <string name="switching_7_4">VLAN</string>
+    <string name="switching_answer_7">3</string>
+
+    <string name="switching_8">Which among the following is/are supported by LAN?</string>
+    <string name="switching_8_1">PABX</string>
+    <string name="switching_8_2">SBDN</string>
+    <string name="switching_8_3">All of the above</string>
+    <string name="switching_8_4"> PSTN</string>
+    <string name="switching_answer_8">1</string>
+
+    <string name="switching_9">In Phase Shift Keying, how many bits are allowed to be transmitted per shift?</string>
+    <string name="switching_9_1">8</string>
+    <string name="switching_9_2">5</string>
+    <string name="switching_9_3">2</string>
+    <string name="switching_9_4">4</string>
+    <string name="switching_answer_9">3</string>
+
+    <string name="switching_10">What is an acceptable value of dividing point between the wander and jitter?</string>
+    <string name="switching_10_1">5Hz </string>
+    <string name="switching_10_2">10Hz</string>
+    <string name="switching_10_3">50Hz</string>
+    <string name="switching_10_4">200Hz</string>
+    <string name="switching_answer_10">1</string>
+
+    <string name="switching_11">What combination  switching does a DMS 100 employs ?</string>
+    <string name="switching_11_1">TSSST</string>
+    <string name="switching_11_2">TSTS</string>
+    <string name="switching_11_3">TSTST</string>
+    <string name="switching_11_4">TST</string>
+    <string name="switching_answer_11">2</string>
+
+    <string name="switching_12">Spectrum regulation in Ghana is done by the ________</string>
+    <string name="switching_12_1">NCA</string>
+    <string name="switching_12_2">NCC</string>
+    <string name="switching_12_3">ITU</string>
+    <string name="switching_12_4">ECG</string>
+    <string name="switching_answer_12">1</string>
+
+
+    <string name="math_1">What are the values of x and y if 2x-3y=4 and 3y-8x-2=0</string>
+    <string name="math_1_1">x=1 and y=2</string>
+    <string name="math_1_2">x= -1 and y= -2</string>
+    <string name="math_1_3">x= -1 and y=2</string>
+    <string name="math_1_4">x=1 and y= -2</string>
+    <string name="math_answer_1">1</string>
+
+    <string name="math_2">If the first term of an arithmetic progression is 6 and the 11th term is 76. What is the 5th term ? </string>
+    <string name="math_2_1">31</string>
+    <string name="math_2_2">34</string>
+    <string name="math_2_3">33</string>
+    <string name="math_2_4">36</string>
+    <string name="math_answer_2">2</string>
+
+    <string name="math_3">(A U B) U C =</string>
+    <string name="math_3_1">A ∩ (B U C )</string>
+    <string name="math_3_2">A ∩ (B ∩ C )</string>
+    <string name="math_3_3">A U(B U C )</string>
+    <string name="math_3_4"> None of the above</string>
+    <string name="math_answer_3"> 3</string>
+
+    <string name="math_4">What is the 301st term of the sequence 3, 9, 15, .... ?</string>
+    <string name="math_4_1">1803</string>
+    <string name="math_4_2">18</string>
+    <string name="math_4_3">1800</string>
+    <string name="math_4_4">180</string>
+    <string name="math_answer_4">1</string>
+
+    <string name="math_5"> The point (1,2) passes through a circle whose center is at origin. What is the area in cm2 of the circle</string>
+    <string name="math_5_1">16.7</string>
+    <string name="math_5_2">14.7</string>
+    <string name="math_5_3">17.7</string>
+    <string name="math_5_4">15.7 </string>
+    <string name="math_answer_5">4</string>
+
+
+    <string name="math_6">If the 5th term of an arithmetric progression is 17 and the 9th term is 37. What is the 1st term?</string>
+    <string name="math_6_1">-3</string>
+    <string name="math_6_2">-6 </string>
+    <string name="math_6_3">3</string>
+    <string name="math_6_4">6</string>
+    <string name="math_answer_6">1</string>
+
+
+    <string name="math_7">An arrangement of a finite number of objects taken some or all at a time is called their</string>
+    <string name="math_7_1">Permutation</string>
+    <string name="math_7_2">All of the above</string>
+    <string name="math_7_3">Sequence</string>
+    <string name="math_7_4">Combination</string>
+    <string name="math_answer_7">1</string>
+
+    <string name="math_8">Letters of SAP taken all at a time can be written in</string>
+    <string name="math_8_1">3 ways</string>
+    <string name="math_8_2">24 ways</string>
+    <string name="math_8_3">12 ways</string>
+    <string name="math_8_4"> 6 ways</string>
+    <string name="math_answer_8">4</string>
+
+    <string name="math_9">Every even integer is also</string>
+    <string name="math_9_1">Whole number</string>
+    <string name="math_9_2">Irrational number</string>
+    <string name="math_9_3">Rational number</string>
+    <string name="math_9_4">Natural number</string>
+    <string name="math_answer_9">3</string>
+
+    <string name="math_10">Equation solved roots which are not actual roots of original equation are classified as</string>
+    <string name="math_10_1">Extraneous roots</string>
+    <string name="math_10_2">Extrinsic roots</string>
+    <string name="math_10_3">True roots</string>
+    <string name="math_10_4">False roots</string>
+    <string name="math_answer_10">1</string>
+
+    <string name="math_11">Given n+1 data pairs,a unique polynomial of degree _______passes through then n+1 data points</string>
+    <string name="math_11_1">n+1</string>
+    <string name="math_11_2">n or less</string>
+    <string name="math_11_3">n</string>
+    <string name="math_11_4">n-1</string>
+    <string name="math_answer_11">2</string>
+
+    <string name="math_12">If a polynomial of degree n  has more than n zeros, then the polynomial is ________</string>
+    <string name="math_12_1">Quadratic</string>
+    <string name="math_12_2">Linear </string>
+    <string name="math_12_3">Not defined</string>
+    <string name="math_12_4">Zero everywhere</string>
+    <string name="math_answer_12">4</string>
+
+    <string name="math_13">The number of different polynomials that can go through two fixed data points (x1,y1)and(x2,y2 )is ____</string>
+    <string name="math_13_1">finite</string>
+    <string name="math_13_2">1</string>
+    <string name="math_13_3">infinite</string>
+    <string name="math_13_4">2</string>
+    <string name="math_answer_13">3</string>
+
+    <string name="math_14">Which of the following function(s) can be used for interpolation.</string>
+    <string name="math_14_1">Polynomial</string>
+    <string name="math_14_2">Exponential</string>
+    <string name="math_14_3">Trigonometric</string>
+    <string name="math_14_4">All of the above</string>
+    <string name="math_answer_14">4</string>
+
+    <string name="math_15">The highest order of polynomial integrand for which Simpson’s 1/3 rule of integration is exact is ____</string>
+    <string name="math_15_1">Third</string>
+    <string name="math_15_2">Fourth</string>
+    <string name="math_15_3">Second</string>
+    <string name="math_15_4">First</string>
+    <string name="math_answer_15">1</string>
+
+
+    <string name="networking_1">What is the size of MAC Address?</string>
+    <string name="networking_1_1">16-bits</string>
+    <string name="networking_1_2">32-bits</string>
+    <string name="networking_1_3">48-bits</string>
+    <string name="networking_1_4">64-bits</string>
+    <string name="networking_answer_1">3</string>
+
+    <string name="networking_2">Which of the following can be Software?</string>
+    <string name="networking_2_1">Routers</string>
+    <string name="networking_2_2"> Gateway</string>
+    <string name="networking_2_3"> Modems</string>
+    <string name="networking_2_4">Firewalls</string>
+    <string name="networking_answer_2">4</string>
+
+    <string name="networking_3"> MAC Address is the example of</string>
+    <string name="networking_3_1">Transport Layer</string>
+    <string name="networking_3_2">Application Layer</string>
+    <string name="networking_3_3">Physical Layer</string>
+    <string name="networking_3_4">Data Link Layer</string>
+    <string name="networking_answer_3">4</string>
+
+    <string name="networking_4">Layer-2 Switch is also called</string>
+    <string name="networking_4_1">Multiport Switch</string>
+    <string name="networking_4_2">Multiport Hub</string>
+    <string name="networking_4_3">Multiport Bridge</string>
+    <string name="networking_4_4">Multiport NIC</string>
+    <string name="networking_answer_4">3</string>
+
+    <string name="networking_5">  _______ provides a connection-oriented reliable service for sending messages</string>
+    <string name="networking_5_1">IP</string>
+    <string name="networking_5_2"> UDP</string>
+    <string name="networking_5_3">PIN</string>
+    <string name="networking_5_4">TCP </string>
+    <string name="networking_answer_5">4</string>
+
+    <string name="networking_6">How many layers are in the TCP/IP model?</string>
+    <string name="networking_6_1">4 layers</string>
+    <string name="networking_6_2">5 layers</string>
+    <string name="networking_6_3">6 layers</string>
+    <string name="networking_6_4">7 layers</string>
+    <string name="networking_answer_6">2</string>
+
+    <string name="networking_7">How many bits are there in the Ethernet address?</string>
+    <string name="networking_7_1">64 bits</string>
+    <string name="networking_7_2">16 bits</string>
+    <string name="networking_7_3">48 bits</string>
+    <string name="networking_7_4">8 bits</string>
+    <string name="networking_answer_7">3</string>
+
+    <string name="networking_8"> Which of the following layer of OSI model also called end-to-end layer?</string>
+    <string name="networking_8_1">Transport layer</string>
+    <string name="networking_8_2">Physical layer</string>
+    <string name="networking_8_3"> Session layer</string>
+    <string name="networking_8_4">Network layer</string>
+    <string name="networking_answer_8">1</string>
+
+    <string name="networking_9"> Bridge works in which layer of the OSI model?</string>
+    <string name="networking_9_1">Application layer</string>
+    <string name="networking_9_2">Network layer</string>
+    <string name="networking_9_3">Datalink layer</string>
+    <string name="networking_9_4">Physical layer</string>
+    <string name="networking_answer_9">3</string>
+
+    <string name="networking_10">The last address of IP address represents</string>
+    <string name="networking_10_1">Broadcast address</string>
+    <string name="networking_10_2">Host address</string>
+    <string name="networking_10_3">Unicast address</string>
+    <string name="networking_10_4">Network address</string>
+    <string name="networking_answer_10">1</string>
+
+    <string name="networking_11">Which of the following is/are Protocols of Application?</string>
+    <string name="networking_11_1">FTP</string>
+    <string name="networking_11_2">Telnet</string>
+    <string name="networking_11_3">DNS</string>
+    <string name="networking_11_4">All of the above</string>
+    <string name="networking_answer_11">4</string>
+
+    <string name="networking_12">In which type of RAID, data is mirrored between two disks.</string>
+    <string name="networking_12_1">RAID 0</string>
+    <string name="networking_12_2">RAID 3</string>
+    <string name="networking_12_3">RAID 2</string>
+    <string name="networking_12_4">RAID 1</string>
+    <string name="networking_answer_12">4</string>
+
+    <string name="networking_13">What is the maximum header size of an IP packet ?</string>
+    <string name="networking_13_1">60 bytes</string>
+    <string name="networking_13_2">64 bytes</string>
+    <string name="networking_13_3">32 bytes</string>
+    <string name="networking_13_4">16 bytes</string>
+    <string name="networking_answer_13">1</string>
+
+    <string name="networking_14">What is the size of Host bits in Class B of IP address ?</string>
+    <string name="networking_14_1">64</string>
+    <string name="networking_14_2">8</string>
+    <string name="networking_14_3">32</string>
+    <string name="networking_14_4">16</string>
+    <string name="networking_answer_14">4</string>
+
+    <string name="networking_15">Which of the following IP address is a Multicast.</string>
+    <string name="networking_15_1">Class A</string>
+    <string name="networking_15_2">Class B</string>
+    <string name="networking_15_3">Class C</string>
+    <string name="networking_15_4">Class D</string>
+    <string name="networking_answer_15">4</string>
+
+
+    <string name="ict_1">Which register stores the result of ALU operations?</string>
+    <string name="ict_1_1">Data Register</string>
+    <string name="ict_1_2">Instruction Register</string>
+    <string name="ict_1_3">Accumulator Register</string>
+    <string name="ict_1_4">Data Address Register</string>
+    <string name="ict_answer_1">3</string>
+
+    <string name="ict_2">A small high speed memory insidse CPU is ________?</string>
+    <string name="ict_2_1">RAM</string>
+    <string name="ict_2_2">Cache</string>
+    <string name="ict_2_3">ROM</string>
+    <string name="ict_2_4">Register</string>
+    <string name="ict_answer_2">4</string>
+
+    <string name="ict_3"> DPI stands for?</string>
+    <string name="ict_3_1">Dot Per Inch</string>
+    <string name="ict_3_2">Data Per Inch</string>
+    <string name="ict_3_3">Decimal Per Inch</string>
+    <string name="ict_3_4">Data Link Layer</string>
+    <string name="ict_answer_3">1</string>
+
+    <string name="ict_4">Which of the following device uses the parallel transmission?</string>
+    <string name="ict_4_1">Mouse</string>
+    <string name="ict_4_2">Keyboard</string>
+    <string name="ict_4_3">Printer</string>
+    <string name="ict_4_4">Light Pen</string>
+    <string name="ict_answer_4">3</string>
+
+    <string name="ict_5">Which transmission allows data to travel in both directions but only one direction at a time?</string>
+    <string name="ict_5_1">Simplex</string>
+    <string name="ict_5_2">Full duplex</string>
+    <string name="ict_5_3">Duplex</string>
+    <string name="ict_5_4">Half duplex </string>
+    <string name="ict_answer_5">4</string>
+
+    <string name="ict_6">Another name for free software is?</string>
+    <string name="ict_6_1">Encrypated Software</string>
+    <string name="ict_6_2">Shareware</string>
+    <string name="ict_6_3">Copy Protected Software</string>
+    <string name="ict_6_4">Public Domain Software</string>
+    <string name="ict_answer_6">4</string>
+
+    <string name="ict_7"> The Second Generation Computer was based on ________</string>
+    <string name="ict_7_1"> Vacuum Tube</string>
+    <string name="ict_7_2">Transistor</string>
+    <string name="ict_7_3">Silicon Chips</string>
+    <string name="ict_7_4">Bio Chips</string>
+    <string name="ict_answer_7">2</string>
+
+    <string name="ict_8">RJ45 UTP cable has ________ Cables.</string>
+    <string name="ict_8_1">4 pair</string>
+    <string name="ict_8_2">2 pair</string>
+    <string name="ict_8_3">8 pair</string>
+    <string name="ict_8_4">1 pair</string>
+    <string name="ict_answer_8">1</string>
+
+    <string name="ict_9"> Who invented Analytical engine?</string>
+    <string name="ict_9_1">George Bool</string>
+    <string name="ict_9_2">None of the above</string>
+    <string name="ict_9_3">Charles Babbage</string>
+    <string name="ict_9_4">Blaise Pascal</string>
+    <string name="ict_answer_9">3</string>
+
+    <string name="ict_10">A collection of rules for writing programs in a programming language is known as ________?</string>
+    <string name="ict_10_1">Program Standards</string>
+    <string name="ict_10_2">Program logic</string>
+    <string name="ict_10_3">Syntax</string>
+    <string name="ict_10_4">All of the above</string>
+    <string name="ict_answer_10">3</string>
+
+    <string name="ict_11">Basic is ________ language.</string>
+    <string name="ict_11_1">A procedural</string>
+    <string name="ict_11_2">An object oriented</string>
+    <string name="ict_11_3">Both A and B</string>
+    <string name="ict_11_4">None of the above</string>
+    <string name="ict_answer_11">1</string>
+
+    <string name="ict_12">Through which device the main components of the computer communicate with each other?</string>
+    <string name="ict_12_1">System Unit</string>
+    <string name="ict_12_2">Monitor</string>
+    <string name="ict_12_3">Keyboard</string>
+    <string name="ict_12_4">System Bus</string>
+    <string name="ict_answer_12">4</string>
+
+    <string name="ict_13">In ________ mode, the communication channel is used in both directions at the same time?</string>
+    <string name="ict_13_1">Full-duplex</string>
+    <string name="ict_13_2">Half-duplex</string>
+    <string name="ict_13_3">Simplex</string>
+    <string name="ict_13_4">None of the above</string>
+    <string name="ict_answer_13">1</string>
+
+    <string name="ict_14">The BIOS is the abbreviation of ________.</string>
+    <string name="ict_14_1">Base Input Output System</string>
+    <string name="ict_14_2">Basic Import Output System</string>
+    <string name="ict_14_3">Base Import Output System</string>
+    <string name="ict_14_4">Basic Input Output System</string>
+    <string name="ict_answer_14">4</string>
+
+    <string name="ict_15">The Third Generation Computer was made with ________.</string>
+    <string name="ict_15_1">IC</string>
+    <string name="ict_15_2">Vacuum Tube</string>
+    <string name="ict_15_3">Transistor</string>
+    <string name="ict_15_4">Bio Chips</string>
+    <string name="ict_answer_15">1</string>
+
+
+    <string name="anatomy_1">Which word describes the location of the lungs with reference to the liver?</string>
+    <string name="anatomy_1_1">Distal</string>
+    <string name="anatomy_1_2">Anterior</string>
+    <string name="anatomy_1_3">Superior</string>
+    <string name="anatomy_1_4">Medial</string>
+    <string name="anatomy_answer_1">3</string>
+
+    <string name="anatomy_2">Which is located most inferiorly?</string>
+    <string name="anatomy_2_1">Pleural Cavity </string>
+    <string name="anatomy_2_2">Mediastinum </string>
+    <string name="anatomy_2_3">Cranial Cavity </string>
+    <string name="anatomy_2_4">Abdominal Cavity </string>
+    <string name="anatomy_answer_2">4</string>
+
+    <string name="anatomy_3">The spleen, tonsils, and thymus are all organs in which system?</string>
+    <string name="anatomy_3_1">Lymphatic </string>
+    <string name="anatomy_3_2">Endocrine</string>
+    <string name="anatomy_3_3">Cardiovascular</string>
+    <string name="anatomy_3_4">Nervous</string>
+    <string name="anatomy_answer_3">1</string>
+
+    <string name="anatomy_4">Which of the following is an avascular tissue?</string>
+    <string name="anatomy_4_1">Fibrocartilage</string>
+    <string name="anatomy_4_2"> Bone</string>
+    <string name="anatomy_4_3">Stratified Squamous Epithelium</string>
+    <string name="anatomy_4_4">None of the above</string>
+    <string name="anatomy_answer_4">1</string>
+
+    <string name="anatomy_5">All of the following are tarsal bones except the ________ </string>
+    <string name="anatomy_5_1">Cuboid</string>
+    <string name="anatomy_5_2">First cuneiform</string>
+    <string name="anatomy_5_3">Navicular</string>
+    <string name="anatomy_5_4">Triquetrum</string>
+    <string name="anatomy_answer_5">4</string>
+
+    <string name="anatomy_6">The Thenar muscles act on the ________ </string>
+    <string name="anatomy_6_1">Wrist</string>
+    <string name="anatomy_6_2">Thumb</string>
+    <string name="anatomy_6_3">Toe</string>
+    <string name="anatomy_6_4">Little finger</string>
+    <string name="anatomy_answer_6">2</string>
+
+    <string name="anatomy_7">Thrombopoietin is a hormone that stimulates the formation of ________ </string>
+    <string name="anatomy_7_1">Albumins</string>
+    <string name="anatomy_7_2">Platelets</string>
+    <string name="anatomy_7_3">Erythrocytes</string>
+    <string name="anatomy_7_4">Fibrinogen</string>
+    <string name="anatomy_answer_7">3</string>
+
+    <string name="anatomy_8">The Diencephalon consists of the ________ </string>
+    <string name="anatomy_8_1">Thalamus and Hypothalamus</string>
+    <string name="anatomy_8_2">Thalamus and Midbrain</string>
+    <string name="anatomy_8_3">Insula and Hypothalamus</string>
+    <string name="anatomy_8_4">Hypothalamus and Midbrain.</string>
+    <string name="anatomy_answer_8">1</string>
+
+    <string name="anatomy_9"> The myelin sheath of peripheral nervous system neurons is produced by  ________ </string>
+    <string name="anatomy_9_1">Eligodendrocytes</string>
+    <string name="anatomy_9_2">Ependymal cells</string>
+    <string name="anatomy_9_3">Schwann cells</string>
+    <string name="anatomy_9_4">Microglia</string>
+    <string name="anatomy_answer_9">3</string>
+
+    <string name="anatomy_10">Vessels that function as a pressure reservoir to ensure blood flow while the ventricles are relaxed are the ________</string>
+    <string name="anatomy_10_1">Elastic arteries</string>
+    <string name="anatomy_10_2">Sinusoids</string>
+    <string name="anatomy_10_3">Venules</string>
+    <string name="anatomy_10_4">Aorta</string>
+    <string name="anatomy_answer_10">1</string>
+
+
+    <string name="physiology_1">The primary structure of a protein refers to the ________</string>
+    <string name="physiology_1_1">α-helices and β-sheets</string>
+    <string name="physiology_1_2">Arrangement of subunits to form a functional structure</string>
+    <string name="physiology_1_3">Amino acid sequence of the protein</string>
+    <string name="physiology_1_4">All of the above</string>
+    <string name="physiology_answer_1">3</string>
+
+    <string name="physiology_2">Which part of a neuron has the highest concentration of Na+ channels per square millimeter of cell membrane?</string>
+    <string name="physiology_2_1">Initial segment</string>
+    <string name="physiology_2_2">Dendrites</string>
+    <string name="physiology_2_3">All of the above</string>
+    <string name="physiology_2_4">Axonal membrane under myelin</string>
+    <string name="physiology_answer_2">1</string>
+
+    <string name="physiology_3">Which of the following are incorrectly paired?</string>
+    <string name="physiology_3_1">B cells:insulin </string>
+    <string name="physiology_3_2">None of the above</string>
+    <string name="physiology_3_3">F cells:gastrin</string>
+    <string name="physiology_3_4">A cells:glucagon</string>
+    <string name="physiology_answer_3">3</string>
+
+    <string name="physiology_4">Which of the following hormones exerts the least effect on growth? </string>
+    <string name="physiology_4_1">Vasopressin</string>
+    <string name="physiology_4_2">T4</string>
+    <string name="physiology_4_3"> Testosterone</string>
+    <string name="physiology_4_4">None of the above</string>
+    <string name="physiology_answer_4">1</string>
+
+    <string name="physiology_5">Full development and function of the seminiferous tubules require</string>
+    <string name="physiology_5_1">LH</string>
+    <string name="physiology_5_2">FSH</string>
+    <string name="physiology_5_3">Oxytocin</string>
+    <string name="physiology_5_4">Androgens and FSH.</string>
+    <string name="physiology_answer_5">4</string>
+
+    <string name="physiology_6">The highest concentration of potassium is in ________ </string>
+    <string name="physiology_6_1">Ringer lactate</string>
+    <string name="physiology_6_2">Darrow’s solution</string>
+    <string name="physiology_6_3">Plasma</string>
+    <string name="physiology_6_4">Isotonic saline</string>
+    <string name="physiology_answer_6">2</string>
+
+    <string name="physiology_7">A ventrolateral cordotomy is performed that produces relief of pain in the right leg. It is effective because it interrupts the </string>
+    <string name="physiology_7_1">Right lateral spinothalamic tract</string>
+    <string name="physiology_7_2">Left dorsal column</string>
+    <string name="physiology_7_3">Right dorsal column</string>
+    <string name="physiology_7_4">Left lateral spinothalamic tract</string>
+    <string name="physiology_answer_7">4</string>
+
+    <string name="physiology_8">The second heart sound is caused by</string>
+    <string name="physiology_8_1">Closure of the aortic and pulmonary valves</string>
+    <string name="physiology_8_2">Closure of the mitral and tricuspid valves</string>
+    <string name="physiology_8_3">Retrograde flow in the vena cava</string>
+    <string name="physiology_8_4">Ventricular filling</string>
+    <string name="physiology_answer_8">1</string>
+
+    <string name="physiology_9"> In the presence of vasopressin, the greatest fraction of filtered water is absorbed in the </string>
+    <string name="physiology_9_1">Distal tubule</string>
+    <string name="physiology_9_2">Cortical collecting duct</string>
+    <string name="physiology_9_3">Loop of Henle</string>
+    <string name="physiology_9_4">Proximal tubule.</string>
+    <string name="physiology_answer_9">3</string>
+
+    <string name="physiology_10">Which of the following is the principal buffer in interstitial fluid?</string>
+    <string name="physiology_10_1">Carbonic acid</string>
+    <string name="physiology_10_2">Other proteins</string>
+    <string name="physiology_10_3">Venules</string>
+    <string name="physiology_10_4">H2PO4</string>
+    <string name="physiology_answer_10">1</string>
+
+
+    <string name="electronics_1">Zener  diodes are primarily used as ________</string>
+    <string name="electronics_1_1">Rectifier</string>
+    <string name="electronics_1_2">Amplifier</string>
+    <string name="electronics_1_3">Voltage Regulator</string>
+    <string name="electronics_1_4">All of the above</string>
+    <string name="electronics_answer_1">3</string>
+
+    <string name="electronics_2">The microwave device used as an oscillator within the frequency range 10-1000GHz is________diode.</string>
+    <string name="electronics_2_1">IMPATT</string>
+    <string name="electronics_2_2">Schottky</string>
+    <string name="electronics_2_3">All of the above</string>
+    <string name="electronics_2_4">Gunn</string>
+    <string name="electronics_answer_2">1</string>
+
+    <string name="electronics_3">Early Effect in BJT refer to </string>
+    <string name="electronics_3_1">Thermal Break-Down </string>
+    <string name="electronics_3_2">None of the above</string>
+    <string name="electronics_3_3">Base Narrowing</string>
+    <string name="electronics_3_4">Zener Break-Down</string>
+    <string name="electronics_answer_3">3</string>
+
+    <string name="electronics_4">When a transistor is fully Switched ON,it is said to be________ </string>
+    <string name="electronics_4_1">Saturated</string>
+    <string name="electronics_4_2">Shorted</string>
+    <string name="electronics_4_3">Opened</string>
+    <string name="electronics_4_4">None of the above</string>
+    <string name="electronics_answer_4">1</string>
+
+    <string name="electronics_5">A XOR gate produces an output only when its  two inputs are ________</string>
+    <string name="electronics_5_1">Same</string>
+    <string name="electronics_5_2">High</string>
+    <string name="electronics_5_3">Low</string>
+    <string name="electronics_5_4">Different</string>
+    <string name="electronics_answer_5">4</string>
+
+    <string name="electronics_6">An OP-AMP can be classified as ________ amplifier.</string>
+    <string name="electronics_6_1">Ldeal</string>
+    <string name="electronics_6_2">Linear</string>
+    <string name="electronics_6_3">Non-Linear</string>
+    <string name="electronics_6_4">None of the above</string>
+    <string name="electronics_answer_6">2</string>
+
+    <string name="electronics_7">The Gain of an actual OP-AMP is around ________</string>
+    <string name="electronics_7_1">100</string>
+    <string name="electronics_7_2">1</string>
+    <string name="electronics_7_3">1,000</string>
+    <string name="electronics_7_4">1,000,000</string>
+    <string name="electronics_answer_7">4</string>
+
+    <string name="electronics_8">Which of the following flip-flop is used as a latch ?</string>
+    <string name="electronics_8_1">S-C flip-flop</string>
+    <string name="electronics_8_2">J-K flip-flop</string>
+    <string name="electronics_8_3">D flip-flop</string>
+    <string name="electronics_8_4">T flip-flop</string>
+    <string name="electronics_answer_8">1</string>
+
+    <string name="electronics_9"> A 555 timer can be used to operate as ________</string>
+    <string name="electronics_9_1">Monostable Multivibrator</string>
+    <string name="electronics_9_2">Astable Multivibrator</string>
+    <string name="electronics_9_3">All of the above</string>
+    <string name="electronics_9_4">Voltage Controlled Oscillator.</string>
+    <string name="electronics_answer_9">3</string>
+
+    <string name="electronics_10">The following is not a sequential Circuit ?</string>
+    <string name="electronics_10_1">Full Adder</string>
+    <string name="electronics_10_2">Counter</string>
+    <string name="electronics_10_3">Shift Register</string>
+    <string name="electronics_10_4">J-K flip-flop</string>
+    <string name="electronics_answer_10">1</string>
+
+    <string name="electronics_11">The binary addition of 1+1+1 gives ________</string>
+    <string name="electronics_11_1">111</string>
+    <string name="electronics_11_2">11</string>
+    <string name="electronics_11_3">110</string>
+    <string name="electronics_11_4">3</string>
+    <string name="electronics_answer_11">2</string>
+
+    <string name="electronics_12">Monolithic technique is ideally suited for  fabricating________ ICs</string>
+    <string name="electronics_12_1">Digital</string>
+    <string name="electronics_12_2">All of the above</string>
+    <string name="electronics_12_3">Thin-film</string>
+    <string name="electronics_12_4">Linear</string>
+    <string name="electronics_answer_12">1</string>
+
+
+    <string name="history_1">Which is the official language of Ghana?</string>
+    <string name="history_1_1">Nzema</string>
+    <string name="history_1_2">Twi</string>
+    <string name="history_1_3">English</string>
+    <string name="history_1_4">French</string>
+    <string name="history_answer_1">3</string>
+
+    <string name="history_2">Rivers Tigris and Euphrates are associated with ?</string>
+    <string name="history_2_1">Mesopotamian Civilization</string>
+    <string name="history_2_2">Chinese Civilization</string>
+    <string name="history_2_3">Harappan Civilization</string>
+    <string name="history_2_4">Egyptain Civilization</string>
+    <string name="history_answer_2">1</string>
+
+    <string name="history_3">Which among the following is called "Gift of the Nile" ? </string>
+    <string name="history_3_1">Niger </string>
+    <string name="history_3_2">Ghana</string>
+    <string name="history_3_3">Egypt</string>
+    <string name="history_3_4">Algeria</string>
+    <string name="history_answer_3">3</string>
+
+    <string name="history_4">Who is considered as the master of Greek comedy ?</string>
+    <string name="history_4_1">Aristophanes</string>
+    <string name="history_4_2">Sophocles</string>
+    <string name="history_4_3">Aeschylus</string>
+    <string name="history_4_4">None of the above</string>
+    <string name="history_answer_4">1</string>
+
+    <string name="history_5">When was ancient Olympic games first held ?</string>
+    <string name="history_5_1">700 BC</string>
+    <string name="history_5_2">777 BC</string>
+    <string name="history_5_3">775 BC</string>
+    <string name="history_5_4">776 BC</string>
+    <string name="history_answer_5">4</string>
+
+    <string name="history_6">Who is known as the father of Modern Medicine ?</string>
+    <string name="history_6_1">Erastosthenes</string>
+    <string name="history_6_2">Hippocrates</string>
+    <string name="history_6_3">Euclid</string>
+    <string name="history_6_4">None of the above</string>
+    <string name="history_answer_6">2</string>
+
+    <string name="history_7">Rome was founded around ?</string>
+    <string name="history_7_1">2000 BC</string>
+    <string name="history_7_2">600 BC</string>
+    <string name="history_7_3">900 BC</string>
+    <string name="history_7_4">1000 BC</string>
+    <string name="history_answer_7">4</string>
+
+    <string name="history_8">Which was not an Roman Philosopher ?</string>
+    <string name="history_8_1">Octavian</string>
+    <string name="history_8_2">Cicero</string>
+    <string name="history_8_3">Seneca</string>
+    <string name="history_8_4">Lucretiu</string>
+    <string name="history_answer_8">1</string>
+
+    <string name="history_9"> Who was among the famous Roman poets ?</string>
+    <string name="history_9_1">Tacitus</string>
+    <string name="history_9_2">Marcus</string>
+    <string name="history_9_3">Virgil</string>
+    <string name="history_9_4">Plinky</string>
+    <string name="history_answer_9">3</string>
+
+    <string name="history_10">Who was the first to sail round the world ?</string>
+    <string name="history_10_1">Magellan</string>
+    <string name="history_10_2">Colobus</string>
+    <string name="history_10_3">None of the above</string>
+    <string name="history_10_4">Columbus</string>
+    <string name="history_answer_10">1</string>
+
+    <string name="history_11">America was discovered in ?</string>
+    <string name="history_11_1">1490</string>
+    <string name="history_11_2">1492</string>
+    <string name="history_11_3">1480</string>
+    <string name="history_11_4">1489</string>
+    <string name="history_answer_11">2</string>
+
+    <string name="history_12">Who discovered North Pole ?</string>
+    <string name="history_12_1">Robert Peary</string>
+    <string name="history_12_2">None of the above</string>
+    <string name="history_12_3">Magellan</string>
+    <string name="history_12_4">Columbus</string>
+    <string name="history_answer_12">1</string>
+
+    <string name="history_13">Habeas Corpus Act was passed in ?</string>
+    <string name="history_13_1">1990</string>
+    <string name="history_13_2">1600</string>
+    <string name="history_13_3">1679</string>
+    <string name="history_13_4">1764</string>
+    <string name="history_answer_13">3</string>
+
+    <string name="history_14">In which year was American Revolution started ?</string>
+    <string name="history_14_1">1775</string>
+    <string name="history_14_2">1772</string>
+    <string name="history_14_3">1758</string>
+    <string name="history_14_4">1757</string>
+    <string name="history_answer_14">1</string>
+
+
+    <string name="pharmacology_1">Which of the following factors is associated with an increased risk of noncompliance in the elderly?</string>
+    <string name="pharmacology_1_1">Hypertension</string>
+    <string name="pharmacology_1_2">All of the above</string>
+    <string name="pharmacology_1_3">Polypharmacy</string>
+    <string name="pharmacology_1_4">Stroke</string>
+    <string name="pharmacology_answer_1">3</string>
+
+    <string name="pharmacology_2">Neuromuscular blockade NOT prolonged by _______</string>
+    <string name="pharmacology_2_1">Hyperthermia</string>
+    <string name="pharmacology_2_2">Gentamicin</string>
+    <string name="pharmacology_2_3">Hypothermia</string>
+    <string name="pharmacology_2_4">None of the above</string>
+    <string name="pharmacology_answer_2">1</string>
+
+    <string name="pharmacology_3">Drug administrated through which of the following routes is not likely to be subjected to first-pass metabolism ?</string>
+    <string name="pharmacology_3_1">Rectal</string>
+    <string name="pharmacology_3_2">Sublingual</string>
+    <string name="pharmacology_3_3">Oral</string>
+    <string name="pharmacology_3_4">Subcutaneous</string>
+    <string name="pharmacology_answer_3">3</string>
+
+    <string name="pharmacology_4">Alkalinization of urine hastens the excretion of ______</string>
+    <string name="pharmacology_4_1">Weakly acidic drugs</string>
+    <string name="pharmacology_4_2">Strong electrolytes</string>
+    <string name="pharmacology_4_3">Weakly basic drugs</string>
+    <string name="pharmacology_4_4">None of the above</string>
+    <string name="pharmacology_answer_4">1</string>
+
+    <string name="pharmacology_5">Majority of drugs cross biological membranes primarily by _____</string>
+    <string name="pharmacology_5_1">Strong electrolytes</string>
+    <string name="pharmacology_5_2">Nonpolar drugs</string>
+    <string name="pharmacology_5_3">Weakly acidic drugs</string>
+    <string name="pharmacology_5_4">Weakly basic drugs</string>
+    <string name="pharmacology_answer_5">4</string>
+
+    <string name="pharmacology_6">Succinylcholine can cause _______</string>
+    <string name="pharmacology_6_1">Hypertension </string>
+    <string name="pharmacology_6_2">All of the above</string>
+    <string name="pharmacology_6_3">Tachycardia</string>
+    <string name="pharmacology_6_4">Bradycardia</string>
+    <string name="pharmacology_answer_6">2</string>
+
+    <string name="pharmacology_7">The dibucaine number for a normal person is ______</string>
+    <string name="pharmacology_7_1">50</string>
+    <string name="pharmacology_7_2">20</string>
+    <string name="pharmacology_7_3">70</string>
+    <string name="pharmacology_7_4">80</string>
+    <string name="pharmacology_answer_7">4</string>
+
+    <string name="pharmacology_8">Redistribution is a feature of _______</string>
+    <string name="pharmacology_8_1">Highly lipid soluble drugs</string>
+    <string name="pharmacology_8_2">Poorly lipid soluble drugs</string>
+    <string name="pharmacology_8_3">All of the above</string>
+    <string name="pharmacology_8_4">Depot preparations</string>
+    <string name="pharmacology_answer_8">1</string>
+
+    <string name="pharmacology_9"> MAC of halothane with 70% of N2O is ______</string>
+    <string name="pharmacology_9_1">0.5%</string>
+    <string name="pharmacology_9_2">0.1%</string>
+    <string name="pharmacology_9_3">0.25%</string>
+    <string name="pharmacology_9_4">1.0%</string>
+    <string name="pharmacology_answer_9">3</string>
+
+    <string name="pharmacology_10">22g of Nitrous oxide at STP occupies a volume of _____</string>
+    <string name="pharmacology_10_1">11.2 L</string>
+    <string name="pharmacology_10_2">20.0 L</string>
+    <string name="pharmacology_10_3">None of the above</string>
+    <string name="pharmacology_10_4">22 L</string>
+    <string name="pharmacology_answer_10">1</string>
+
+    <string name="pharmacology_11">Propofol is structurally related to _____</string>
+    <string name="pharmacology_11_1">Althesin</string>
+    <string name="pharmacology_11_2">None of the above</string>
+    <string name="pharmacology_11_3">Etomidate</string>
+    <string name="pharmacology_11_4">Ketamine</string>
+    <string name="pharmacology_answer_11">2</string>
+
+    <string name="pharmacology_12">Which of the following is metabolised by plasma cholinesterase?</string>
+    <string name="pharmacology_12_1">Procaine</string>
+    <string name="pharmacology_12_2">None of the above</string>
+    <string name="pharmacology_12_3">Remifentanil</string>
+    <string name="pharmacology_12_4">Esmolol</string>
+    <string name="pharmacology_answer_12">1</string>
+
+    <string name="pharmacology_13">Lignocaine has a pKa of 7.9 At pH 6.9, the percentage ionised is _____</string>
+    <string name="pharmacology_13_1">100%</string>
+    <string name="pharmacology_13_2">25%</string>
+    <string name="pharmacology_13_3">90%</string>
+    <string name="pharmacology_13_4">50%</string>
+    <string name="pharmacology_answer_13">3</string>
+
+    <string name="pharmacology_14">Which ONE of the following is an Amide?</string>
+    <string name="pharmacology_14_1">Prilocaine</string>
+    <string name="pharmacology_14_2">Amidacine</string>
+    <string name="pharmacology_14_3">Procaine</string>
+    <string name="pharmacology_14_4">None of the above</string>
+    <string name="pharmacology_answer_14">1</string>
+
+    <string name="pharmacology_15">The first sign of sodium nitroprusside toxicity is______</string>
+    <string name="pharmacology_15_1">Cyanide toxicity</string>
+    <string name="pharmacology_15_2">Hypotension</string>
+    <string name="pharmacology_15_3">None of the above</string>
+    <string name="pharmacology_15_4">Tachyphylaxis</string>
+    <string name="pharmacology_answer_15">1</string>
+
+
+    <string name="quran_1">How many Makki Surahs (chapters) are there in the Qur\'an ? </string>
+    <string name="quran_1_1">88</string>
+    <string name="quran_1_2">85</string>
+    <string name="quran_1_3">86</string>
+    <string name="quran_1_4">84</string>
+    <string name="quran_answer_1">3</string>
+
+    <string name="quran_2">How many Manzils (stages) are there in the Qur\'an</string>
+    <string name="quran_2_1">7</string>
+    <string name="quran_2_2">3</string>
+    <string name="quran_2_3">5</string>
+    <string name="quran_2_4">4</string>
+    <string name="quran_answer_2">1</string>
+
+    <string name="quran_3">Through whom was the Qur\'an revealed?</string>
+    <string name="quran_3_1">Angel Jibraeel </string>
+    <string name="quran_3_2">Angel Micheal</string>
+    <string name="quran_3_3">Alihis-Silam</string>
+    <string name="quran_3_4">Muhammed</string>
+    <string name="quran_answer_3">1</string>
+
+    <string name="quran_4">What is the topic of the Qur\'an? </string>
+    <string name="quran_4_1">Muhammed</string>
+    <string name="quran_4_2">Adam</string>
+    <string name="quran_4_3">Allah</string>
+    <string name="quran_4_4">Man</string>
+    <string name="quran_answer_4">4</string>
+
+    <string name="quran_5">How many Paara or Juz (parts) are there in the Qur\'an?</string>
+    <string name="quran_5_1">25</string>
+    <string name="quran_5_2">55</string>
+    <string name="quran_5_3">5</string>
+    <string name="quran_5_4">30</string>
+    <string name="quran_answer_5">4</string>
+
+    <string name="quran_6">How many Aayaath (verses) are there in the Qur\'an ?</string>
+    <string name="quran_6_1">660 </string>
+    <string name="quran_6_2">6666</string>
+    <string name="quran_6_3">66666</string>
+    <string name="quran_6_4">6660</string>
+    <string name="quran_answer_6">2</string>
+
+    <string name="quran_7">How many times is the word Allah repeated in the Qur\'an? </string>
+    <string name="quran_7_1">2600</string>
+    <string name="quran_7_2">2000</string>
+    <string name="quran_7_3">2660</string>
+    <string name="quran_7_4">2698 </string>
+    <string name="quran_answer_7">4</string>
+
+    <string name="quran_8">Which is the first and the most ancient Mosque according to the Qur\'an? </string>
+    <string name="quran_8_1">Kaaba</string>
+    <string name="quran_8_2">Kaban</string>
+    <string name="quran_8_3">None of the above</string>
+    <string name="quran_8_4">Kaiba</string>
+    <string name="quran_answer_8">1</string>
+
+    <string name="quran_9">Who were the first serious students of the Qur\'an? </string>
+    <string name="quran_9_1">Suffah Salami</string>
+    <string name="quran_9_2">Abu Suffah</string>
+    <string name="quran_9_3">As-haabus Suffah</string>
+    <string name="quran_9_4">Salami Haabus</string>
+    <string name="quran_answer_9">3</string>
+
+    <string name="quran_10">How many times has the Qur\'an emphasized on alms or charity? </string>
+    <string name="quran_10_1">150</string>
+    <string name="quran_10_2">100</string>
+    <string name="quran_10_3">200</string>
+    <string name="quran_10_4">250</string>
+    <string name="quran_answer_10">1</string>
+
+    <string name="quran_11">How many Aayaaths (verses) on Sajda (prostation) are there in the Qur\'an?</string>
+    <string name="quran_11_1">15</string>
+    <string name="quran_11_2">None of the above</string>
+    <string name="quran_11_3">14</string>
+    <string name="quran_11_4">20</string>
+    <string name="quran_answer_11">3</string>
+
+    <string name="quran_12">At the time of the death of Prophet Muhammed (Sallallahu Alaihi Wasallam) how many Huffaz were there? </string>
+    <string name="quran_12_1">22</string>
+    <string name="quran_12_2">None of the above</string>
+    <string name="quran_12_3">20</string>
+    <string name="quran_12_4">25</string>
+    <string name="quran_answer_12">1</string>
+
+    <string name="quran_13">How many different types of Aayaath (verses) are there in the Qur\'an?</string>
+    <string name="quran_13_1">100</string>
+    <string name="quran_13_2">20</string>
+    <string name="quran_13_3">10</string>
+    <string name="quran_13_4">5</string>
+    <string name="quran_answer_13">3</string>
+
+    <string name="quran_14">How many Rukoo (paragraphs) are there in the Qur\'an? </string>
+    <string name="quran_14_1">510</string>
+    <string name="quran_14_2">530</string>
+    <string name="quran_14_3">500</string>
+    <string name="quran_14_4">None of the above</string>
+    <string name="quran_answer_14">4</string>
+
+    <string name="quran_15">Who revealed the Qur\'an? </string>
+    <string name="quran_15_1">Allah</string>
+    <string name="quran_15_2">Muhammed</string>
+    <string name="quran_15_3">None of the above</string>
+    <string name="quran_15_4">As-haabus Suffah</string>
+    <string name="quran_answer_15">1</string>
+
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="1dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="1dp"
+    android:background="@android:drawable/screen_background_light"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <ImageView
+            style="@android:style/MediaButton.Play"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:scaleType="center"
+            android:src="@drawable/subi" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/qb"
+            android:gravity="center"
+            android:onClick="getQuestions"
+            android:padding="3dp"
+            android:text="G.Knowlegde"
+            android:fontFamily="@string/sans_serif"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp"
+            android:textStyle="bold|italic" />
+
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="4dp"
+            android:layout_weight="1"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="5dp">
+
+        </ListView>
+
+    </LinearLayout>
+
+
