@@ -17,18 +17,4 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="rte_toolbar_fontsize_10">10 px Abc</string>
-    <string name="rte_toolbar_fontsize_12">12 px Abc</string>
-    <string name="rte_toolbar_fontsize_14">14 px Abc</string>
-    <string name="rte_toolbar_fontsize_16">16 px Abc</string>
-    <string name="rte_toolbar_fontsize_18">18 px Abc</string>
-    <string name="rte_toolbar_fontsize_20">20 px Abc</string>
-    <string name="rte_toolbar_fontsize_24">24 px Abc</string>
-    <string name="rte_toolbar_fontsize_28">28 px Abc</string>
-    <string name="rte_toolbar_fontsize_32">32 px Abc</string>
-    <string name="rte_toolbar_fontsize_36">36 px Abc</string>
-    
-    <string name="rte_toolbar_color_text">Abc</string>
-    <string name="rte_toolbar_color_custom">Custom</string>
-
 </resources>

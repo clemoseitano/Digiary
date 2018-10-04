@@ -16,42 +16,5 @@
   -->
 
 <resources>
-    
-    <string-array name="rte_toolbar_fontsizes_entries">
-        <item>@string/rte_toolbar_fontsize_10</item>
-        <item>@string/rte_toolbar_fontsize_12</item>
-        <item>@string/rte_toolbar_fontsize_14</item>
-        <item>@string/rte_toolbar_fontsize_16</item>
-        <item>@string/rte_toolbar_fontsize_18</item>
-        <item>@string/rte_toolbar_fontsize_20</item>
-        <item>@string/rte_toolbar_fontsize_24</item>
-        <item>@string/rte_toolbar_fontsize_28</item>
-        <item>@string/rte_toolbar_fontsize_32</item>
-        <item>@string/rte_toolbar_fontsize_36</item>
-    </string-array>
 
-    <integer-array name="rte_toolbar_fontsizes_values">
-        <item>10</item>
-        <item>12</item>
-        <item>14</item>
-        <item>16</item>
-        <item>18</item>
-        <item>20</item>
-        <item>24</item>
-        <item>28</item>
-        <item>32</item>
-        <item>36</item>
-    </integer-array>
-
-    <string-array name="rte_toolbar_fontcolors_values">
-        <item>000000</item>
-        <item>FF0000</item>
-        <item>00FF00</item>
-        <item>0000FF</item>
-        <item>00FFFF</item>
-        <item>FFBF00</item>
-        <item>FF00FF</item>
-        <item>A4A4A4</item>
-    </string-array>
-    
 </resources>

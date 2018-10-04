@@ -17,6 +17,4 @@
 
 <resources>
 
-    <dimen name="rte_spinnerTextSize">16dp</dimen>
-
 </resources>

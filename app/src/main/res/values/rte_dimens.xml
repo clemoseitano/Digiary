@@ -17,6 +17,4 @@
 
 <resources>
     <!-- Margins for the link dialog -->
-    <dimen name="dialog_margin_top_bottom">16dp</dimen>
-    <dimen name="dialog_margin_left_right">24dp</dimen>
 </resources>

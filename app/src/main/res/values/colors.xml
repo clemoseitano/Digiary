@@ -8,8 +8,6 @@
     <color name="black">#000000</color>
     <color name="light_blue">#0af</color>
     <color name="primary">#FF5722</color>
-    <color name="secondary_dark">#1976D2</color>
-    <color name="grey">#cccccc</color>
     <color name="sunshine_dark_blue">#0288D1</color>
     <color name="uno_theme">#5a1e5a</color>
     <color name="circle_background">#fff2f2f2</color>
@@ -24,39 +22,9 @@
     <color name="ampm_text_color">#8c8c8c</color>
     <color name="numbers_text_color">#8c8c8c</color>
     <color name="transparent_black">#7F000000</color>
-    <color name="colorAccentLight">#37474F</color>
-    <color name="colorAccentDark">#FF2353</color>
-    <color name="colorPrimaryDarkDark">#55E64A19</color>
     <color name="cream">#ddddaa</color>
-    <color name="orange2">#f17022</color>
-    <color name="orange">#FA0</color>
-    <color name="colorPrimaryTransparent">#FFCCBC</color>
-    <color name="grey30">#484848</color>
-    <color name="toolbar">#A0000000</color>
-    <color name="busy_indicator">#C0202020</color>
     <color name="seek_progress">#FFFFFF</color>
-    <array name="array_dot_active">
-        <item>@color/dot_active</item>
-        <item>@color/dot_active</item>
-        <item>@color/dot_active</item>
-        <item>@color/dot_active</item>
-        <item>@color/dot_active</item>
-    </array>
-    <array name="array_dot_inactive">
-        <item>@color/dot_inactive</item>
-        <item>@color/dot_inactive</item>
-        <item>@color/dot_inactive</item>
-        <item>@color/dot_inactive</item>
-        <item>@color/dot_inactive</item>
-    </array>
-    <color name="app_intro">#a0522d</color>
-    <color name="dot_active">#f17022</color>
-    <color name="dot_inactive">#2B2424</color>
-    <color name="grey_b">#3B3B3B</color>
     <color name="transparent">#00000000</color>
     <color name="colorLayoutBackground">#FFAA88</color>
     <color name="light_black">#33222222</color>
-    <color name="grey_100">#F5F5F5</color>
-    <color name="highlighted_text">@color/dot_active</color>
-    <color name="grey_300">#E0E0E0</color>
 </resources>

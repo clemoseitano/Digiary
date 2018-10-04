@@ -17,8 +17,4 @@
 
 <resources>
 
-    <dimen name="rte_spinnerPreferredItemHeight">48dip</dimen>
-
-    <dimen name="rte_spinnerTextSize">18dp</dimen>
-
 </resources>

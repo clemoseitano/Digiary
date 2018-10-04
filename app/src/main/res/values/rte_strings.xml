@@ -4,16 +4,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Rich Text Editor Link -->
-    <string name="rte_link_enter_url">URL (required)</string>
-    <string name="rte_link_enter_url_text">Link Text (optional)</string>
-    <string name="rte_create_a_link">Create a Link</string>
-    <string name="rte_invalid_link"><xliff:g id="link">%s</xliff:g> is not a valid address</string>
-    <string name="rte_remove_action">Remove</string>
-    
+
     <!-- Media Library -->
-    <string name="rte_pick_image">Select an image</string>
-    <string name="rte_pick_video">Select a video</string>
-    <string name="rte_processing_image">Processing image\u2026</string>
-    <string name="rte_add_image_error">There\'s not enough memory to add this image.</string>
-    
+
 </resources>
