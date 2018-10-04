@@ -84,4 +84,5 @@
     <string name="pref_delete_reminder_title">Storage Options</string>
     <string name="action_text_rich">To HTML</string>
     <string name="repeat">Repeat</string>
+    <string name="title_activity_editor">Note Editor</string>
 </resources>
